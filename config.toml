@@ -1,0 +1,3 @@
+baseURL = 'http://kadds.github.io/'
+languageCode = 'en-us'
+title = 'Kadds blog'
